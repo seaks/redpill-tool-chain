@@ -3,10 +3,11 @@
         "pid": "0x0001",
         "vid": "0x46f4",
         "sn": "17A0PDN822403",
-        "mac1": "001132827599"
-        "mac1": "00113282759A"
+        "mac1": "001132827599",
+        "mac2": "00113282759A",
         "DiskIdxMap": "100010",
         "SataPortMap": "161",
+        "netif_num": "2",
         "SasIdxMap": "0"
     },
     "synoinfo": {},
